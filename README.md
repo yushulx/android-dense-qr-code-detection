@@ -41,5 +41,6 @@ The following chart shows the performance of the high-density QR code detection 
 * [ML Kit](https://developers.google.com/ml-kit/vision/barcode-scanning)
 * [Dynamsoft Barcode Reader](https://www.dynamsoft.com/barcode-reader/programming/android/api-reference/index.html?ver=latest)
 
-
+## Blog
+[How to Detect High Density QR Code on Android Devices](https://www.dynamsoft.com/codepool/high-density-qr-code-detection.html)
 
