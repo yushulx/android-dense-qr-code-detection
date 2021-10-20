@@ -32,6 +32,7 @@ This app is based on [ML Kit's vision sample](https://github.com/googlesamples/m
 
 ## High-density QR Code Detection Performance
 The following chart shows the performance of the high-density QR code detection based on the public image dataset `qrcodes_v3/qrcodes/detection/high_version`.
+
 ![high-density QR code detection performance](https://www.dynamsoft.com/codepool/img/2021/10/hgh-density-qr-detection-performance.jpg)
 
 
